@@ -1,3 +1,3 @@
 class Person
-
+  initia
 end
